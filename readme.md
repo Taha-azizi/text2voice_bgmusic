@@ -1,5 +1,5 @@
 Description
-This is a Python script that uses the Tortoise Text-to-Speech (TTS) model to generate high-quality voice overs. The script also supports adding optional background music to the output audio file.
+This is a Python script that uses the Tortoise Text-to-Speech (TTS) model to generate high-quality voice overs. The script also supports adding optional background music to the output audio file. In the second file mini-notebooklm.py, I have added sections to generate podcast type of conversation, simulating something like the Famous NotebookLM. 
 
 Requirements
 Install the required libraries: pip install torchaudio pydub soundfile
